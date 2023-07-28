@@ -22,7 +22,7 @@ Before running the script, make sure you have the following prerequisites:
 ## Usage
 1. Clone the repository or download the custom_user_setup.sh script to your local machine.
 ```bash
-git clone https://
+git clone https://github.com/thoth2357/Custom_User_Setup_Script.git
 ```
 
 2. Ensure the script has execute permissions:
