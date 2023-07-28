@@ -6,9 +6,9 @@ print_separator() {
 }
 
 # Show "Developed by thoth2357" using Figlet and Lolcat
-echo "Developed by thoth2357" | figlet | lolcat
+echo "Developed by thoth2357" | figlet -t -c | lolcat
 # Show GitHub handle
-echo "GitHub: github.com/thoth2357" | figlet | lolcat
+echo "github.com/thoth2357" | figlet -t -c -k -f small | lolcat
 
 # Ask for user information
 read -p "Enter the new username: " USERNAME
