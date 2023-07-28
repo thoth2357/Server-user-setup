@@ -50,5 +50,3 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ## Author
 [@thoth2357](https://www.github.com/thoth2357)
-
-
